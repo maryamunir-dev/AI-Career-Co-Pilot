@@ -112,4 +112,33 @@ The goal of AI Career Co-Pilot is to explore how artificial intelligence, web te
 
 ---
 
+
+## 📸 Project Screenshots
+
+### 🔒 User Authentication (Signup / Login)
+*Secure gateway for users to create an account and log in safely:*
+
+<img width="1822" height="901" alt="login-auth-screen png" src="https://github.com/user-attachments/assets/ead26903-be43-4226-8b3f-8da3901ba94a" />
+<img width="1867" height="896" alt="signup-auth-screen png" src="https://github.com/user-attachments/assets/deecf52d-c089-4637-894a-67cd23655747" />
+
+
+### 📊 Main Application Dashboard
+*The dashboard interface where users can paste or upload their resumes for AI-powered analysis:*
+
+<img width="1843" height="900" alt="dashboard-screen png" src="https://github.com/user-attachments/assets/77a57257-9232-4aef-981b-c3279f879b23" />
+
+
+### 🧪 Real-time Resume Analysis Result
+*AI-generated results showing relevant skills, skill gaps, and personalized career recommendations using the Gemini API:*
+
+<img width="1145" height="536" alt="analysis-screen png" src="https://github.com/user-attachments/assets/d2788781-7212-42a3-8fee-32a693c0dec3" />
+
+### 📜 Saved Analysis History
+*The history page displaying previous resume analyses, identified skill gaps, and personalized learning roadmaps saved in the database:*
+
+<img width="1887" height="908" alt="history-screen png" src="https://github.com/user-attachments/assets/3b635e4f-7acc-4c0e-92ab-294eacc408dd" />
+
+---
+
 *Built with Python, Flask, and AI to explore smarter career assistance.*
+---
